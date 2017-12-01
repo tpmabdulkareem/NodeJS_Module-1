@@ -12,7 +12,7 @@ _save the code above in a file called "myfirstmodule.js"_
 [demo_module.js](https://github.com/tpmabdulkareem/NodeJS_Module-1/blob/master/index.js)
 
 
-_Save the code above in a file called "demo_module.js", and initiate the file:
+_Save the code above in a file called "demo_module.js", and initiate the file:_
 
 ##### Initiate demo_module.js:
 
@@ -28,6 +28,6 @@ Open Browser and Enter URL >>
 
 ### Output:
 
-[!output](https://github.com/tpmabdulkareem/NodeJS_Module-1/blob/master/Capture.JPG)
+![output](https://github.com/tpmabdulkareem/NodeJS_Module-1/blob/master/Capture.JPG)
 
 
