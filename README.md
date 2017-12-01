@@ -6,7 +6,7 @@
 [myfirstmodule.js](https://github.com/tpmabdulkareem/NodeJS_Module-1/blob/master/myfirst.js)
 
 
-_save the code above in a file called "myfirstmodule.js"_
+_save the code above in a file called "myfirst.js"_
 
 
 [demo_module.js](https://github.com/tpmabdulkareem/NodeJS_Module-1/blob/master/index.js)
@@ -14,12 +14,12 @@ _save the code above in a file called "myfirstmodule.js"_
 
 _Save the code above in a file called "demo_module.js", and initiate the file:_
 
-##### Initiate demo_module.js:
+##### Initiate index.js:
 
 open terminal >> Terminal Command
 
 
-#### C:\Users\Your Name>node demo_module.js
+#### C:\Users\Your Name>node index.js
 
 Open Browser and Enter URL >>
 
