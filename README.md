@@ -3,13 +3,13 @@
 
 #### Example to create a module that returns a date and time object:
 
-[myfirstmodule.js]()
+[myfirstmodule.js](https://github.com/tpmabdulkareem/NodeJS_Module-1/blob/master/myfirst.js)
 
 
 _save the code above in a file called "myfirstmodule.js"_
 
 
-[demo_module.js]()
+[demo_module.js](https://github.com/tpmabdulkareem/NodeJS_Module-1/blob/master/index.js)
 
 
 _Save the code above in a file called "demo_module.js", and initiate the file:
@@ -28,6 +28,6 @@ Open Browser and Enter URL >>
 
 ### Output:
 
-[output]()
+[!output](https://github.com/tpmabdulkareem/NodeJS_Module-1/blob/master/Capture.JPG)
 
 
