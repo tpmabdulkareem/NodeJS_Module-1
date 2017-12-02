@@ -18,6 +18,6 @@ console.log(dt);
 ##### C:\Users\admin> node main.js
 
 
-![terminal](https://drive.google.com/open?id=1zXs5_5Jgxp7eBUMxaYEE_mJ6N_0KO4Lf)
+[Termial output](https://drive.google.com/open?id=1zXs5_5Jgxp7eBUMxaYEE_mJ6N_0KO4Lf)
 
 
