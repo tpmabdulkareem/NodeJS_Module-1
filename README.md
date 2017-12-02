@@ -9,10 +9,10 @@
 _save the code above in a file called "myfirst.js"_
 
 
-[demo_module.js](https://github.com/tpmabdulkareem/NodeJS_Module-1/blob/master/index.js)
+[index.js](https://github.com/tpmabdulkareem/NodeJS_Module-1/blob/master/index.js)
 
 
-_Save the code above in a file called "demo_module.js", and initiate the file:_
+_Save the code above in a file called "index.js", and initiate the file:_
 
 ##### Initiate index.js:
 
