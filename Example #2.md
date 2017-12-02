@@ -13,7 +13,11 @@ var dt = Tsunami.kerDistr();
 console.log(dt);
 
 ### output
+#### cmd prompt
 
-![terminal]()
+##### C:\Users\admin> node main.js
+
+
+![terminal](https://drive.google.com/open?id=1zXs5_5Jgxp7eBUMxaYEE_mJ6N_0KO4Lf)
 
 
