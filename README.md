@@ -3,7 +3,7 @@
 
 #### Example to create a module that returns a date and time object:
 
-[myfirstmodule.js](https://github.com/tpmabdulkareem/NodeJS_Module-1/blob/master/myfirst.js)
+[myfirst.js](https://github.com/tpmabdulkareem/NodeJS_Module-1/blob/master/myfirst.js)
 
 
 _save the code above in a file called "myfirst.js"_
