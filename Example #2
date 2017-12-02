@@ -1,0 +1,19 @@
+### //Tsunami.js
+
+exports.kerDistr = function() {
+return 'OCKHI';
+}
+
+
+### //main.js
+
+
+var Tsunami = require('./Tsunami');
+var dt = Tsunami.kerDistr();
+console.log(dt);
+
+### output
+
+![terminal]()
+
+
